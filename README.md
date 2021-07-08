@@ -12,7 +12,7 @@
 
 • Exploratory Data Analysis
 
-• Development of Machine Learning/Deep Learning models
+• Implementation of Machine Learning/Deep Learning models
 
 • Python Scripting
 
