@@ -28,7 +28,7 @@ Clustering
 
 Time Series
 
-I am open to:
+👯 I am open to:
 
 any collobration work,
 
