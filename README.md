@@ -1,12 +1,10 @@
-### Hi there 👋
-Ahad-Hussain
-Hi there, I'm Ahad Hussain 👋
+### Hi there, I'm Ahad Hussain 👋
 
 👨🏽‍ I am a final year Electrical Engineering student specializing in Computer Engineering at National University Of Computer And Emerging Sciences, FAST-NUCES, Pakistan. Apart from that I am a Data Science enthusiast and have been learning about it and attending Data science boot-camps form past one year.
 
-🌱Currently growing my skillset in Machine Learning, Data Science and Data Analysis.
+## 🌱Currently growing my skillset in Machine Learning, Data Science and Data Analysis.
 
-👨‍💻 Technical Skills & Expertise
+## 👨‍💻 Technical Skills & Expertise
 
 • Data Cleaning
 
@@ -18,7 +16,7 @@ Hi there, I'm Ahad Hussain 👋
 
 • Python Scripting
 
-Machine learning model used:
+## Machine learning model used:
 
 Regression
 
@@ -28,7 +26,7 @@ Clustering
 
 Time Series
 
-👯 I am open to:
+## 👯 I am open to:
 
 any collobration work,
 
