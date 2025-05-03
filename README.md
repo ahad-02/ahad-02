@@ -1,10 +1,19 @@
 # Hi there, I'm Ahad Hussain 👋
 
-👨🏽‍ I am an Electrical & Computer Engineering graudate from National University Of Computer And Emerging Sciences, FAST-NUCES, Pakistan. Apart from that I am a Data Science enthusiast and have been learning about it and attending Data science boot-camps form past one year.
+👨🏽‍ Data Science @ Illinois Tech, Chicago
 
 ### 🌱Currently growing my skillset in Machine Learning, Data Science and Data Analysis.
 
 ### 👨‍💻 Technical Skills & Expertise
+• Data Engineering
+
+• ETL/ELT Pipelines
+
+• Gen AI
+
+• LLMs
+
+• Cloud (GCP, Azure)
 
 • Data Cleaning
 
@@ -28,7 +37,7 @@ Time Series
 
 ### 👯 I am open to:
 
-any collobration work,
+any collaboration work,
 
 Internships
 
