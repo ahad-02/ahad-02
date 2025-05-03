@@ -2,7 +2,7 @@
 
 👨🏽‍ Data Science @ Illinois Tech, Chicago
 
-### 🌱Currently growing my skillset in Machine Learning, Data Science and Data Analysis.
+### 🌱Currently growing my skillset in Gen AI Use cases, LLMs Integrations, Data Engineering, Data Science & Analytics.
 
 ### 👨‍💻 Technical Skills & Expertise
 • Data Engineering
