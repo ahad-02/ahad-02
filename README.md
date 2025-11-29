@@ -1,7 +1,7 @@
 # Hi there, I'm Ahad Hussain 👋
 
 👨🏽‍ Data Science @ Illinois Tech, Chicago
-
+More about me @ https://ahadhussain.bolt.host/
 ### 🌱Currently growing my skillset in Gen AI, RAG, GraphRAG, LLMs Integrations, and Data Engineering.
 
 ### 👨‍💻 Technical Skills & Expertise
