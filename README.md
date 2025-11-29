@@ -35,7 +35,7 @@ Clustering
 
 Time Series
 
-### 👯 I am open to:
+### 💼 I am open to:
 
 any collaboration work,
 
