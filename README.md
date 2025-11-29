@@ -5,15 +5,15 @@
 ### 🌱Currently growing my skillset in Gen AI, RAG, GraphRAG, LLMs Integrations, and Data Engineering.
 
 ### 👨‍💻 Technical Skills & Expertise
-• Data Engineering
-
-• ETL/ELT Pipelines
-
 • Gen AI
 
 • LLMs
 
 • Cloud (GCP, Azure)
+
+• Data Engineering
+
+• ETL/ELT Pipelines
 
 • Data Cleaning
 
@@ -41,7 +41,7 @@ any collaboration work,
 
 Internships
 
-Data Science projects.
+projects.
 
 <!--
 **ahad-02/ahad-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
